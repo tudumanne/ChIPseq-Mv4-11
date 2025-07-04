@@ -1,4 +1,4 @@
-# ChIPseq_humanrDNA
+# ChIPseq-Mv4-11
 
 This repository contains ChIP-seq data analysis pipeline for ribosomal DNA (rDNA) repeats and genome-wide (For paired-end short read - Illumina data). 
 
