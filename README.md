@@ -52,7 +52,7 @@ samtools mpileup -f reference_rdna_masked.fa -B -r rDNA_repeat -o input_mpileup 
 - Canonical rDNA reference was incorporated to the resulting fasta file which was then used as the custom reference for ChIP-seq data analysis.
 
 
-### ChIP-seq data analysis pipeline overview
+## ChIP-seq data analysis pipeline overview
 
 The pipeline was run on an HPC (high-performance computing) system based on CentOS (Linux).
 
